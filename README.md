@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python, SQL and R.
 - 📫 How to reach me ⬇️  
 - email: leti.glass@gmail.com 
-- LinkedIn: https://www.linkedin.com/in/leticia-glass-9106261a5/
+- LinkedIn: https://www.linkedin.com/in/leticia-glass
 
 <!---
 leticiaglass/leticiaglass is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
