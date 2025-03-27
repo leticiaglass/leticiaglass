@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @leticiaglass
-- 👀 I’m interested in Data Science, Data Engineering and Python as well!
-- 🌱 I’m currently learning Python, SQL and R.
+- 👀 I’m interested in Data Science, Data Engineering, Data Analysis and Python as well!
+- 👩🏼‍💻 I’m currently working as a Data Scientist.
+- But still studying Python, SQL, Machine Learning, Deep Learning, NLP, LLMs. 
 - 📫 How to reach me ⬇️  
 - email: leti.glass@gmail.com 
 - LinkedIn: https://www.linkedin.com/in/leticia-glass
